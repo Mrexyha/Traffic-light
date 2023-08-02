@@ -1,0 +1,55 @@
+#background{
+  height: 800px;
+  width: 300px;
+  background-color: #ddd;
+  border-radius: 30px;
+  position: fixed;
+  margin-left: 150px;
+}
+#red{
+  height: 200px;
+  width: 200px;
+  background-color: #eee;
+  position: absolute;
+  margin: 70px 50px;
+  border-radius: 100px;
+}
+#yellow{
+  height: 200px;
+  width: 200px;
+  background-color: #eee;
+  position: absolute;
+  margin-top: 300px;
+  margin-left: 50px;
+  border-radius: 100px;
+}
+#green{
+  height: 200px;
+  width: 200px;
+  background-color: #eee;
+  position: absolute;
+  margin-top: 530px;
+  margin-left: 50px;
+  margin-right: 50px;
+  border-radius: 100px;
+}
+#stop{
+  position: fixed;
+  margin-top: 140px;
+  margin-left: 15px;
+}
+#wait{
+  position: fixed;
+  margin-top: 370px;
+  margin-left: 15px;
+}
+#go{
+  position: fixed;
+  margin-top: 600px;
+  margin-left: 40px;
+}
+.commands{
+  font-size: 50px;
+  font-family: cursive;
+  cursor: pointer;
+}
